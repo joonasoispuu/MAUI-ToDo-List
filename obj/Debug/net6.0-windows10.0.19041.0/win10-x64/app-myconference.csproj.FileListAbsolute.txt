@@ -375,3 +375,4 @@ C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-w
 C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-400.png
 C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
 C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MvvmHelpers.dll
+C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Jeffsum.dll

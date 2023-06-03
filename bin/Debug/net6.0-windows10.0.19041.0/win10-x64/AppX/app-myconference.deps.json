@@ -10,6 +10,7 @@
       "app-myconference/1.0": {
         "dependencies": {
           "CommunityToolkit.Mvvm": "8.2.0",
+          "Jeffsum": "0.0.2-beta",
           "Microsoft.Maui.Dependencies": "6.0.547",
           "Microsoft.Maui.Extensions": "6.0.547",
           "Microsoft.Windows.SDK.BuildTools": "10.0.22000.194",
@@ -913,6 +914,14 @@
           }
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
@@ -1169,6 +1178,13 @@
       "sha512": "sha512-F883u+B0AVUkRZS+VQBiZEJiqlGiiQhGA8Ejy1/Y8fl4ecBmSd+HYuDso0iiUhh+UxRDjp2aTQ7jGkuL2S4NrA==",
       "path": "communitytoolkit.mvvm/8.2.0",
       "hashPath": "communitytoolkit.mvvm.8.2.0.nupkg.sha512"
+    },
+    "Jeffsum/0.0.2-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sBAIhyHYv7UBQdiV0A7+G7c0xJujY4zCEUvbno7VJezO6SA4eAsFhISxTmQxD6iFZ0p35VME23d00uQfyBCF3Q==",
+      "path": "jeffsum/0.0.2-beta",
+      "hashPath": "jeffsum.0.0.2-beta.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration/6.0.1": {
       "type": "package",

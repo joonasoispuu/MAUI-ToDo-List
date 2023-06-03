@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CommunityToolkit.Mvvm.ComponentModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,4 +17,11 @@ public class Sessions
     public DateTime End { get; set; }
     public string StartTimeDisplay => $"{Start:t}";
     public string DayDisplay => $"{Start:MMM} {Start:d}";
+    public Speaker Speaker { get; set; } = new Speaker
+    {
+        Name = "James Montemagno",
+        Company = "Microsoft",
+        Description = "James Montemagno is a Principal Lead Program Manager for .NET Community at Microsoft11 with Xamarin.",
+        Title = "Pricipal Lead Program Manager"
+    };
 }

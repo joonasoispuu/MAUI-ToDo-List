@@ -31,6 +31,19 @@
           }
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -2013,6 +2026,19 @@
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
             "related": ".aar;.xml"
+          }
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -4001,6 +4027,19 @@
           }
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -5983,6 +6022,19 @@
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
             "related": ".aar;.xml"
+          }
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -7971,6 +8023,19 @@
           }
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -9953,6 +10018,19 @@
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
             "related": ".aar;.xml"
+          }
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -11941,6 +12019,19 @@
           }
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -13926,6 +14017,19 @@
           }
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -15898,6 +16002,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -16153,6 +16270,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -16412,6 +16542,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -16667,6 +16810,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -16926,6 +17082,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -17181,6 +17350,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -17440,6 +17622,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -17695,6 +17890,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -17954,6 +18162,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -18209,6 +18430,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -18468,6 +18702,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -18723,6 +18970,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -18982,6 +19242,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -19237,6 +19510,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -19496,6 +19782,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -19753,6 +20052,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -20008,6 +20320,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -20392,6 +20717,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -20744,6 +21082,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -21100,6 +21451,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -21452,6 +21816,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -21808,6 +22185,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -22162,6 +22552,19 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -22514,6 +22917,19 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Jeffsum/0.0.2-beta": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Jeffsum.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/6.0.1": {
@@ -22908,6 +23324,26 @@
         "lib/net6.0-android31.0/GoogleGson.aar",
         "lib/net6.0-android31.0/GoogleGson.dll",
         "lib/net6.0-android31.0/GoogleGson.xml"
+      ]
+    },
+    "Jeffsum/0.0.2-beta": {
+      "sha512": "sBAIhyHYv7UBQdiV0A7+G7c0xJujY4zCEUvbno7VJezO6SA4eAsFhISxTmQxD6iFZ0p35VME23d00uQfyBCF3Q==",
+      "type": "package",
+      "path": "jeffsum/0.0.2-beta",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "jeffsum.0.0.2-beta.nupkg.sha512",
+        "jeffsum.nuspec",
+        "lib/net461/Jeffsum.dll",
+        "lib/net461/Jeffsum.pdb",
+        "lib/net461/Jeffsum.xml",
+        "lib/netstandard1.0/Jeffsum.dll",
+        "lib/netstandard1.0/Jeffsum.pdb",
+        "lib/netstandard1.0/Jeffsum.xml",
+        "lib/netstandard2.0/Jeffsum.dll",
+        "lib/netstandard2.0/Jeffsum.pdb",
+        "lib/netstandard2.0/Jeffsum.xml"
       ]
     },
     "Microsoft.Extensions.Configuration/6.0.1": {
@@ -25956,12 +26392,14 @@
   "projectFileDependencyGroups": {
     "net6.0-android31.0": [
       "CommunityToolkit.Mvvm >= 8.2.0",
+      "Jeffsum >= 0.0.2-beta",
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
       "Refractored.MvvmHelpers >= 1.6.2"
     ],
     "net6.0-ios16.0": [
       "CommunityToolkit.Mvvm >= 8.2.0",
+      "Jeffsum >= 0.0.2-beta",
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
       "Refractored.MvvmHelpers >= 1.6.2",
@@ -25969,6 +26407,7 @@
     ],
     "net6.0-maccatalyst15.4": [
       "CommunityToolkit.Mvvm >= 8.2.0",
+      "Jeffsum >= 0.0.2-beta",
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
       "Refractored.MvvmHelpers >= 1.6.2",
@@ -25976,6 +26415,7 @@
     ],
     "net6.0-windows10.0.19041": [
       "CommunityToolkit.Mvvm >= 8.2.0",
+      "Jeffsum >= 0.0.2-beta",
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194",
@@ -26046,6 +26486,10 @@
           "CommunityToolkit.Mvvm": {
             "target": "Package",
             "version": "[8.2.0, )"
+          },
+          "Jeffsum": {
+            "target": "Package",
+            "version": "[0.0.2-beta, )"
           },
           "Microsoft.Maui.Dependencies": {
             "target": "Package",
@@ -26157,6 +26601,10 @@
             "target": "Package",
             "version": "[8.2.0, )"
           },
+          "Jeffsum": {
+            "target": "Package",
+            "version": "[0.0.2-beta, )"
+          },
           "Microsoft.Maui.Dependencies": {
             "target": "Package",
             "version": "[6.0.547, )",
@@ -26247,6 +26695,10 @@
           "CommunityToolkit.Mvvm": {
             "target": "Package",
             "version": "[8.2.0, )"
+          },
+          "Jeffsum": {
+            "target": "Package",
+            "version": "[0.0.2-beta, )"
           },
           "Microsoft.Maui.Dependencies": {
             "target": "Package",
@@ -26339,6 +26791,10 @@
           "CommunityToolkit.Mvvm": {
             "target": "Package",
             "version": "[8.2.0, )"
+          },
+          "Jeffsum": {
+            "target": "Package",
+            "version": "[0.0.2-beta, )"
           },
           "Microsoft.Maui.Dependencies": {
             "target": "Package",
