@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-06-03T08:13:40.879</Modified>
+      <Modified>2023-06-03T09:08:00.805</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-06-03T08:13:39.540</Modified>
+      <Modified>2023-06-03T09:08:00.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\app-myconference.runtimeconfig.json">
       <PackagePath>app-myconference.runtimeconfig.json</PackagePath>
-      <Modified>2023-06-03T08:05:46.896</Modified>
+      <Modified>2023-06-03T09:01:13.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\app-myconference.dll">
       <PackagePath>app-myconference.dll</PackagePath>
-      <Modified>2023-06-03T08:13:38.320</Modified>
+      <Modified>2023-06-03T09:07:59.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>app-myconference.exe</PackagePath>
-      <Modified>2023-06-03T08:13:38.357</Modified>
+      <Modified>2023-06-03T09:07:59.242</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.11\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1076,7 +1076,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\app-myconference.deps.json">
       <PackagePath>app-myconference.deps.json</PackagePath>
-      <Modified>2023-06-03T08:13:40.626</Modified>
+      <Modified>2023-06-03T09:08:00.608</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\.nuget\packages\microsoft.maui.controls.ref.win\6.0.547\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1096,295 +1096,295 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-06-03T06:57:08.078</Modified>
+      <Modified>2023-06-03T08:52:10.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-06-03T06:57:08.092</Modified>
+      <Modified>2023-06-03T08:52:10.540</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-06-03T06:57:08.110</Modified>
+      <Modified>2023-06-03T08:52:10.541</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-06-03T06:57:08.137</Modified>
+      <Modified>2023-06-03T08:52:10.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-06-03T06:57:08.243</Modified>
+      <Modified>2023-06-03T08:52:10.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-06-03T06:47:53.455</Modified>
+      <Modified>2023-06-03T08:52:10.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2023-06-03T06:47:53.457</Modified>
+      <Modified>2023-06-03T08:52:10.460</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-06-03T07:28:41.308</Modified>
+      <Modified>2023-06-03T08:52:10.463</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.575</Modified>
+      <Modified>2023-06-03T08:52:10.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.587</Modified>
+      <Modified>2023-06-03T08:52:10.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.596</Modified>
+      <Modified>2023-06-03T08:52:10.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.610</Modified>
+      <Modified>2023-06-03T08:52:10.467</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.670</Modified>
+      <Modified>2023-06-03T08:52:10.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.403</Modified>
+      <Modified>2023-06-03T08:52:10.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.406</Modified>
+      <Modified>2023-06-03T08:52:10.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.421</Modified>
+      <Modified>2023-06-03T08:52:10.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.409</Modified>
+      <Modified>2023-06-03T08:52:10.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.412</Modified>
+      <Modified>2023-06-03T08:52:10.474</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.360</Modified>
+      <Modified>2023-06-03T08:52:10.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.364</Modified>
+      <Modified>2023-06-03T08:52:10.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.399</Modified>
+      <Modified>2023-06-03T08:52:10.477</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.371</Modified>
+      <Modified>2023-06-03T08:52:10.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.392</Modified>
+      <Modified>2023-06-03T08:52:10.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.316</Modified>
+      <Modified>2023-06-03T08:52:10.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.319</Modified>
+      <Modified>2023-06-03T08:52:10.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.322</Modified>
+      <Modified>2023-06-03T08:52:10.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.325</Modified>
+      <Modified>2023-06-03T08:52:10.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.336</Modified>
+      <Modified>2023-06-03T08:52:10.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.341</Modified>
+      <Modified>2023-06-03T08:52:10.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.345</Modified>
+      <Modified>2023-06-03T08:52:10.486</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.357</Modified>
+      <Modified>2023-06-03T08:52:10.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.347</Modified>
+      <Modified>2023-06-03T08:52:10.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.350</Modified>
+      <Modified>2023-06-03T08:52:10.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.472</Modified>
+      <Modified>2023-06-03T08:52:10.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.477</Modified>
+      <Modified>2023-06-03T08:52:10.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.484</Modified>
+      <Modified>2023-06-03T08:52:10.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.492</Modified>
+      <Modified>2023-06-03T08:52:10.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.507</Modified>
+      <Modified>2023-06-03T08:52:10.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.448</Modified>
+      <Modified>2023-06-03T08:52:10.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.452</Modified>
+      <Modified>2023-06-03T08:52:10.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.457</Modified>
+      <Modified>2023-06-03T08:52:10.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.461</Modified>
+      <Modified>2023-06-03T08:52:10.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.468</Modified>
+      <Modified>2023-06-03T08:52:10.500</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.424</Modified>
+      <Modified>2023-06-03T08:52:10.501</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.427</Modified>
+      <Modified>2023-06-03T08:52:10.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.431</Modified>
+      <Modified>2023-06-03T08:52:10.503</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.438</Modified>
+      <Modified>2023-06-03T08:52:10.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.445</Modified>
+      <Modified>2023-06-03T08:52:10.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.512</Modified>
+      <Modified>2023-06-03T08:52:10.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.519</Modified>
+      <Modified>2023-06-03T08:52:10.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.527</Modified>
+      <Modified>2023-06-03T08:52:10.509</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.538</Modified>
+      <Modified>2023-06-03T08:52:10.511</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.567</Modified>
+      <Modified>2023-06-03T08:52:10.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-100.png">
       <PackagePath>calendar.scale-100.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.254</Modified>
+      <Modified>2023-06-03T08:52:10.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-125.png">
       <PackagePath>calendar.scale-125.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.274</Modified>
+      <Modified>2023-06-03T08:52:10.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-150.png">
       <PackagePath>calendar.scale-150.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.297</Modified>
+      <Modified>2023-06-03T08:52:10.515</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-200.png">
       <PackagePath>calendar.scale-200.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.335</Modified>
+      <Modified>2023-06-03T08:52:10.516</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-400.png">
       <PackagePath>calendar.scale-400.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.518</Modified>
+      <Modified>2023-06-03T08:52:10.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-100.png">
       <PackagePath>clock.scale-100.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.254</Modified>
+      <Modified>2023-06-03T08:52:10.519</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-125.png">
       <PackagePath>clock.scale-125.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.276</Modified>
+      <Modified>2023-06-03T08:52:10.520</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-150.png">
       <PackagePath>clock.scale-150.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.306</Modified>
+      <Modified>2023-06-03T08:52:10.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-200.png">
       <PackagePath>clock.scale-200.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.361</Modified>
+      <Modified>2023-06-03T08:52:10.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-400.png">
       <PackagePath>clock.scale-400.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.550</Modified>
+      <Modified>2023-06-03T08:52:10.524</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.243</Modified>
+      <Modified>2023-06-03T08:52:10.526</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.254</Modified>
+      <Modified>2023-06-03T08:52:10.527</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.266</Modified>
+      <Modified>2023-06-03T08:52:10.528</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.285</Modified>
+      <Modified>2023-06-03T08:52:10.529</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.337</Modified>
+      <Modified>2023-06-03T08:52:10.530</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-100.png">
       <PackagePath>fire.scale-100.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.254</Modified>
+      <Modified>2023-06-03T08:52:10.532</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-125.png">
       <PackagePath>fire.scale-125.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.273</Modified>
+      <Modified>2023-06-03T08:52:10.533</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-150.png">
       <PackagePath>fire.scale-150.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.299</Modified>
+      <Modified>2023-06-03T08:52:10.534</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-200.png">
       <PackagePath>fire.scale-200.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.362</Modified>
+      <Modified>2023-06-03T08:52:10.535</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-400.png">
       <PackagePath>fire.scale-400.png</PackagePath>
-      <Modified>2023-06-03T07:28:41.556</Modified>
+      <Modified>2023-06-03T08:52:10.537</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
