@@ -970,6 +970,36 @@
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-100.png">
+      <PackagePath>calendar.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-125.png">
+      <PackagePath>calendar.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-150.png">
+      <PackagePath>calendar.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-200.png">
+      <PackagePath>calendar.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-400.png">
+      <PackagePath>calendar.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-100.png">
+      <PackagePath>clock.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-125.png">
+      <PackagePath>clock.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-150.png">
+      <PackagePath>clock.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-200.png">
+      <PackagePath>clock.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-400.png">
+      <PackagePath>clock.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -984,6 +1014,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-100.png">
+      <PackagePath>fire.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-125.png">
+      <PackagePath>fire.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-150.png">
+      <PackagePath>fire.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-200.png">
+      <PackagePath>fire.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\fire.scale-400.png">
+      <PackagePath>fire.scale-400.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
