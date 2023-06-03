@@ -1,0 +1,1 @@
+C:\Users\mukim\source\repos\app-myconference\app-myconference\app-myconference.csproj;x64

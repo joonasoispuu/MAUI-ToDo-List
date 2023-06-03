@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = app_myconference
+build_property.ProjectDir = C:\Users\mukim\source\repos\app-myconference\app-myconference\
+
+[C:/Users/mukim/source/repos/app-myconference/app-myconference/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = app_myconference.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/mukim/source/repos/app-myconference/app-myconference/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = app_myconference.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/mukim/source/repos/app-myconference/app-myconference/Pages/AgendaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = app_myconference.Pages.AgendaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AgendaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AgendaPage.xaml
+
+[C:/Users/mukim/source/repos/app-myconference/app-myconference/Pages/SchedulePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = app_myconference.Pages.SchedulePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SchedulePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SchedulePage.xaml
+
+[C:/Users/mukim/source/repos/app-myconference/app-myconference/Pages/SponsorsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = app_myconference.Pages.SponsorsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SponsorsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SponsorsPage.xaml
+
+[C:/Users/mukim/source/repos/app-myconference/app-myconference/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = app_myconference.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/mukim/source/repos/app-myconference/app-myconference/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = app_myconference.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
