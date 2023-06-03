@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1YaXFJxBP+Rw8S3wPUC9Y6xgOsuZy13FczHmeDf2A/EkPJh1wmJc0BzwfHiYE0GTW9Tp3AehpS+TYFHMpEjS1w==",
+  "dgSpecHash": "dVmZaOuj6QNI4EQ3TfkBW1B8C/r5nVrORGGz1pb/MdH2caydhavoTozV4Ro4deX/SxIgFierwAalfivpTCN3Og==",
   "success": true,
   "projectFilePath": "C:\\Users\\mukim\\source\\repos\\app-myconference\\app-myconference\\app-myconference.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mukim\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
@@ -20,9 +21,11 @@
     "C:\\Users\\mukim\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\6.0.501\\microsoft.maui.graphics.win2d.winui.desktop.6.0.501.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.3\\microsoft.windowsappsdk.1.1.3.nupkg.sha512",
+    "C:\\Users\\mukim\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\system.runtime.interopservices.nfloat.internal\\6.0.1\\system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
+    "C:\\Users\\mukim\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\xamarin.android.glide\\4.12.0.8\\xamarin.android.glide.4.12.0.8.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\xamarin.android.glide.annotations\\4.12.0.8\\xamarin.android.glide.annotations.4.12.0.8.nupkg.sha512",
     "C:\\Users\\mukim\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.12.0.8\\xamarin.android.glide.disklrucache.4.12.0.8.nupkg.sha512",

@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-06-03T07:28:44.787</Modified>
+      <Modified>2023-06-03T07:41:55.830</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-06-03T07:28:44.208</Modified>
+      <Modified>2023-06-03T07:41:55.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\app-myconference.runtimeconfig.json">
       <PackagePath>app-myconference.runtimeconfig.json</PackagePath>
-      <Modified>2023-06-03T06:57:11.531</Modified>
+      <Modified>2023-06-03T07:41:54.997</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\app-myconference.dll">
       <PackagePath>app-myconference.dll</PackagePath>
-      <Modified>2023-06-03T07:28:42.029</Modified>
+      <Modified>2023-06-03T07:41:53.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>app-myconference.exe</PackagePath>
-      <Modified>2023-06-03T07:28:42.070</Modified>
+      <Modified>2023-06-03T07:41:53.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.11\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -966,6 +966,10 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2022-08-17T03:26:26.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\.nuget\packages\communitytoolkit.mvvm\8.2.0\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+      <Modified>2023-04-27T00:48:24.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\.nuget\packages\microsoft.extensions.configuration\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
       <Modified>2022-02-24T00:12:18.000</Modified>
@@ -1054,6 +1058,10 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-07-19T16:53:02.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mukim\.nuget\packages\refractored.mvvmhelpers\1.6.2\lib\netstandard2.0\MvvmHelpers.dll">
+      <PackagePath>MvvmHelpers.dll</PackagePath>
+      <Modified>2020-05-27T04:48:32.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2022-04-28T15:57:10.000</Modified>
@@ -1064,7 +1072,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\source\repos\app-myconference\app-myconference\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\app-myconference.deps.json">
       <PackagePath>app-myconference.deps.json</PackagePath>
-      <Modified>2023-06-03T07:28:44.515</Modified>
+      <Modified>2023-06-03T07:41:55.580</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mukim\.nuget\packages\microsoft.maui.controls.ref.win\6.0.547\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
